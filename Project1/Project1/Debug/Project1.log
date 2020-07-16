@@ -1,0 +1,4 @@
+﻿  window.c
+c:\users\zhaolei\source\repos\project1\project1\window.c(22): warning C4133: “函数”: 从“char [1024]”到“LPWSTR”的类型不兼容
+c:\users\zhaolei\source\repos\project1\project1\window.c(23): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+  Project1.vcxproj -> C:\Users\zhaolei\source\repos\Project1\Debug\Project1.exe
